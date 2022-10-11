@@ -1,7 +1,6 @@
 # QuizGame
 ###### Description
-Play a fun quiz game and score the highest by getting them all right!
-#Hello and welcome to a fun game time. Play this awesome `QuizGame` to test your knowledge.
+Hello and welcome to a fun trivia game. Play this awesome `QuizGame` and score the highest by getting them all correct!
 
 ###### Requirements
 ```
@@ -10,8 +9,8 @@ sudo apt-get install python3
 
 ###### Steps To Execution
 - Fork this repo
-- Execute `main.py` to start the quiz
-- Checkout your score after each question and at the end of quiz
+- Run `main.py` to start the quiz
+- Checkout your score after each question, and also at the end of the game
 
 ###### Sample Question
 ![Screenshot](question.png)
